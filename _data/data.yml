@@ -13,13 +13,11 @@ sidebar:
     avatar: perfil.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sokaynabenkari5@gmail.com
+    email: sokbenmas@alu.edu.gva.es
     phone: 653124589
-    timezone: Artana # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: España/Artana # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://suky-sk.github.io/Curriculum/ # Include the full website URL, including "http://" or "https://".
-    linkedin: sokayna
-    xing: sokayna
     github: suky-sk
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -57,14 +55,13 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Presentación
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Profesional comprometido con DAW, con experiencia en programación.
+      Hábil en trabajar y orientado a resultados.
+      Apasionado por mejorar procesos y aportar valor a equipos multidisciplinarios.
+
+Este perfil resume tus habilidades y logros en unas pocas líneas; ajusta el texto según tu especialidad y experiencia específica.
 education:
     title: Education
     info:
