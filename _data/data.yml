@@ -20,7 +20,7 @@ sidebar:
     website: https://suky-sk.github.io/Curriculum/ # Include the full website URL, including "http://" or "https://".
     linkedin: sokayna
     xing: sokayna
-    github: uky-sk
+    github: suky-sk
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -86,8 +86,6 @@ education:
          Es una etapa educativa en España para jóvenes de 12 a 16 años. 
          Prepara a los estudiantes en conocimientos básicos y competencias 
          necesarias para seguir estudiando o integrarse en el mundo laboral.
-            - Bullet point
-            - Bullet point
 
 experiences:
     title: Experiences
