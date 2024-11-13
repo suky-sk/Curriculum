@@ -76,14 +76,18 @@ education:
           programar y mantener aplicaciones y servicios web, 
           utilizando tecnologías como HTML, CSS, JavaScript, y bases de datos. 
           También incluye conocimientos en seguridad, despliegue y gestión de servidores.
+            - Bullet point
+            - Bullet point
  
       - degree: ESO
         university: IES Betxí
         time: 2017- 2021
         details: |
-        Es una etapa educativa en España para jóvenes de 12 a 16 años. 
-        Prepara a los estudiantes en conocimientos básicos y competencias 
-        necesarias para seguir estudiando o integrarse en el mundo laboral.
+         Es una etapa educativa en España para jóvenes de 12 a 16 años. 
+         Prepara a los estudiantes en conocimientos básicos y competencias 
+         necesarias para seguir estudiando o integrarse en el mundo laboral.
+            - Bullet point
+            - Bullet point
 
 experiences:
     title: Experiences
@@ -103,6 +107,7 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
+            
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
